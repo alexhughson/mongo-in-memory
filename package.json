@@ -33,7 +33,7 @@
   "homepage": "https://github.com/giorgio-zamparelli/mongo-in-memory#readme",
   "dependencies": {
     "mongodb": "^2.2.1",
-    "mongodb-prebuilt": "^4.6.0",
+    "mongodb-prebuilt": "^6.3.3",
     "nodeify": "1.0.0",
     "rimraf": "^2.5.2",
     "uid": "0.0.2"
